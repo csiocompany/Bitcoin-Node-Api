@@ -1,3 +1,6 @@
 node_modules
 .DS_Store
 index.js
+/nbproject/private/
+/nbproject
+package-lock.json
